@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>DiaShapes - shape-vm-logging</name>
+  <icon>shape-vm-logging.png</icon>
+  <connections>
+    <point x="1.6" y="3.6"/>
+    <point x="4.4" y="2.2"/>
+    <point x="7.2" y="3.6"/>
+    <point x="4.4" y="5"/>
+    <point x="3" y="2.9"/>
+    <point x="5.8" y="2.9"/>
+    <point x="5.8" y="4.3"/>
+    <point x="1.6" y="3.6"/>
+    <point x="4.4" y="5"/>
+    <point x="4.4" y="5.8"/>
+    <point x="1.6" y="4.4"/>
+    <point x="3" y="4.3"/>
+    <point x="4.4" y="5.4"/>
+    <point x="3" y="5.1"/>
+    <point x="4.4" y="5"/>
+    <point x="7.2" y="3.6"/>
+    <point x="7.2" y="4.4"/>
+    <point x="4.4" y="5.8"/>
+    <point x="5.8" y="4.3"/>
+    <point x="7.2" y="4"/>
+    <point x="5.8" y="5.1"/>
+    <point x="3.5" y="3"/>
+    <point x="5.1" y="3.8"/>
+    <point x="5.1" y="4.1"/>
+    <point x="3.5" y="3.3"/>
+    <point x="4.3" y="3.4"/>
+    <point x="5.1" y="3.95"/>
+    <point x="4.3" y="3.7"/>
+    <point x="5.1" y="3.8"/>
+    <point x="6.1" y="3.3"/>
+    <point x="6.1" y="3.6"/>
+    <point x="5.1" y="4.1"/>
+    <point x="5.6" y="3.55"/>
+    <point x="6.1" y="3.45"/>
+    <point x="5.6" y="3.85"/>
+    <point x="3.5" y="3"/>
+    <point x="4.5" y="2.5"/>
+    <point x="6.1" y="3.3"/>
+    <point x="5.1" y="3.8"/>
+    <point x="4" y="2.75"/>
+    <point x="5.3" y="2.9"/>
+    <point x="5.6" y="3.55"/>
+    <point x="2.6" y="3.8"/>
+    <point x="3.5" y="3"/>
+    <point x="5.1" y="3.8"/>
+    <point x="4.2" y="4.6"/>
+    <point x="3.05" y="3.4"/>
+    <point x="4.3" y="3.4"/>
+    <point x="4.65" y="4.2"/>
+    <point x="4.14" y="2.84"/>
+    <point x="3.82762" y="3.00032"/>
+    <point x="3.98381" y="2.92016"/>
+    <point x="4.7" y="2.75"/>
+    <point x="4.02762" y="3.10032"/>
+    <point x="4.36381" y="2.92516"/>
+    <point x="4.88" y="2.84"/>
+    <point x="4.2" y="3.2"/>
+    <point x="4.54" y="3.02"/>
+    <point x="5.06" y="2.92"/>
+    <point x="4.4" y="3.3"/>
+    <point x="4.73" y="3.11"/>
+    <point x="5.24" y="3.02"/>
+    <point x="4.6" y="3.4"/>
+    <point x="4.92" y="3.21"/>
+    <point x="5.15" y="3.3"/>
+    <point x="4.8" y="3.5"/>
+    <point x="4.975" y="3.4"/>
+    <point x="5.2" y="3.3"/>
+    <point x="5.4" y="3.3"/>
+    <point x="5.4" y="3.9"/>
+    <point x="5.2" y="3.9"/>
+    <point x="5.3" y="3.3"/>
+    <point x="5.4" y="3.6"/>
+    <point x="5.3" y="3.9"/>
+    <point x="5.2" y="3.2"/>
+    <point x="5.4" y="3.2"/>
+    <point x="5.4" y="3.8"/>
+    <point x="5.2" y="3.8"/>
+    <point x="5.3" y="3.2"/>
+    <point x="5.4" y="3.5"/>
+    <point x="5.3" y="3.8"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #1e90ff" points="1.6,3.6 4.4,2.2 7.2,3.6 4.4,5 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="1.6,3.6 4.4,2.2 7.2,3.6 4.4,5 "/>
+    <svg:polygon style="fill: #3474b2" points="1.6,3.6 4.4,5 4.4,5.8 1.6,4.4 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="1.6,3.6 4.4,5 4.4,5.8 1.6,4.4 "/>
+    <svg:polygon style="fill: #82bffb" points="4.4,5 7.2,3.6 7.2,4.4 4.4,5.8 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="4.4,5 7.2,3.6 7.2,4.4 4.4,5.8 "/>
+    <svg:polygon style="fill: #c47f00" points="3.5,3 5.1,3.8 5.1,4.1 3.5,3.3 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="3.5,3 5.1,3.8 5.1,4.1 3.5,3.3 "/>
+    <svg:polygon style="fill: #e5e5e5" points="5.1,3.8 6.1,3.3 6.1,3.6 5.1,4.1 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="5.1,3.8 6.1,3.3 6.1,3.6 5.1,4.1 "/>
+    <svg:polygon style="fill: #ffffff" points="3.5,3 4.5,2.5 6.1,3.3 5.1,3.8 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="3.5,3 4.5,2.5 6.1,3.3 5.1,3.8 "/>
+    <svg:polygon style="fill: #ffd381" points="2.6,3.8 3.5,3 5.1,3.8 4.2,4.6 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="2.6,3.8 3.5,3 5.1,3.8 4.2,4.6 "/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.0508; stroke: #000000" x1="4.14" y1="2.84" x2="3.82762" y2="3.00032"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.0508; stroke: #000000" x1="4.7" y1="2.75" x2="4.02762" y2="3.10032"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.0508; stroke: #000000" x1="4.88" y1="2.84" x2="4.2" y2="3.2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.0508; stroke: #000000" x1="5.06" y1="2.92" x2="4.4" y2="3.3"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.0508; stroke: #000000" x1="5.24" y1="3.02" x2="4.6" y2="3.4"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.0508; stroke: #000000" x1="5.15" y1="3.3" x2="4.8" y2="3.5"/>
+    <svg:path style="fill: #c47f00" d="M 5.3 2.8 C 6.3,2.8 6.3,3.3 5.3,3.3 C 4.3,3.3 4.3,2.8 5.3,2.8z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" d="M 5.3 2.8 C 6.3,2.8 6.3,3.3 5.3,3.3 C 4.3,3.3 4.3,2.8 5.3,2.8"/>
+    <svg:path style="fill: #ffd381" d="M 5.3 2.7 C 6.3,2.7 6.3,3.2 5.3,3.2 C 4.3,3.2 4.3,2.7 5.3,2.7z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" d="M 5.3 2.7 C 6.3,2.7 6.3,3.2 5.3,3.2 C 4.3,3.2 4.3,2.7 5.3,2.7"/>
+    <svg:path style="fill: #1e90ff" d="M 5.3 2.8 C 6.1,2.8 6.1,3.1 5.3,3.1 C 4.5,3.1 4.5,2.8 5.3,2.8z"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" d="M 5.3 2.8 C 6.1,2.8 6.1,3.1 5.3,3.1 C 4.5,3.1 4.5,2.8 5.3,2.8"/>
+    <svg:polygon style="fill: #c47f00" points="5.2,3.3 5.4,3.3 5.4,3.9 5.2,3.9 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" points="5.2,3.3 5.4,3.3 5.4,3.9 5.2,3.9 "/>
+    <svg:polygon style="fill: #ffd381" points="5.2,3.2 5.4,3.2 5.4,3.8 5.2,3.8 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" points="5.2,3.2 5.4,3.2 5.4,3.8 5.2,3.8 "/>
+  </svg:svg>
+</shape>

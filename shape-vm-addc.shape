@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <name>DiaShapes - shape-vm-addc</name>
+  <icon>shape-vm-addc.png</icon>
+  <connections>
+    <point x="1.6" y="3.6"/>
+    <point x="4.4" y="2.2"/>
+    <point x="7.2" y="3.6"/>
+    <point x="4.4" y="5"/>
+    <point x="3" y="2.9"/>
+    <point x="5.8" y="2.9"/>
+    <point x="5.8" y="4.3"/>
+    <point x="4.4" y="5.8"/>
+    <point x="1.6" y="4.4"/>
+    <point x="3" y="4.3"/>
+    <point x="4.4" y="5.4"/>
+    <point x="3" y="5.1"/>
+    <point x="7.2" y="4.4"/>
+    <point x="7.2" y="4"/>
+    <point x="5.8" y="5.1"/>
+    <point x="3.1" y="3.5"/>
+    <point x="4.4" y="2.5"/>
+    <point x="4.4" y="4.1"/>
+    <point x="3.75" y="3"/>
+    <point x="4.4" y="3.3"/>
+    <point x="5.8" y="3.4"/>
+    <point x="5.1" y="2.95"/>
+    <point x="5.1" y="3.75"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #1e90ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.001; stroke: #000000" points="1.6,3.6 4.4,2.2 7.2,3.6 4.4,5 "/>
+    <svg:polygon style="fill: #3474b2; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.001; stroke: #000000" points="1.6,3.6 4.4,5 4.4,5.8 1.6,4.4 "/>
+    <svg:polygon style="fill: #82bffb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 0.001; stroke: #000000" points="4.4,5 7.2,3.6 7.2,4.4 4.4,5.8 "/>
+    <svg:polygon style="fill: #a52a2a; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.98576e-38; stroke: #000000" points="3.1,3.5 4.4,2.5 4.4,4.1 "/>
+    <svg:polygon style="fill: #ff0000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2.98576e-38; stroke: #000000" points="4.4,2.5 5.8,3.4 4.4,4.1 "/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 4.23 2.88 L 4.03,3.18"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 4.23 2.88 C 4.24456,2.88971 4.24941,2.91398 4.23971,2.92854 C 4.23,2.9431 4.20573,2.94795 4.19117,2.93824 C 4.17661,2.92854 4.17176,2.90427 4.18146,2.88971 C 4.19117,2.87515 4.21544,2.87029 4.23,2.88"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 4.11 3.48 L 4.03,3.18"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 4.11 3.48 C 4.09309,3.48451 4.07167,3.47211 4.06716,3.4552 C 4.06265,3.43829 4.07505,3.41687 4.09196,3.41236 C 4.10887,3.40785 4.13029,3.42025 4.1348,3.43716 C 4.13931,3.45407 4.12691,3.47549 4.11,3.48"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 3.8 3.55 L 3.75,3.31"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 3.8 3.55 C 3.78287,3.55357 3.76217,3.54001 3.7586,3.52287 C 3.75503,3.50574 3.76859,3.48504 3.78572,3.48147 C 3.80286,3.4779 3.82356,3.49147 3.82713,3.5086 C 3.8307,3.52573 3.81713,3.54643 3.8,3.55"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 3.52 3.42 L 3.75,3.31"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 3.52 3.42 C 3.51245,3.40421 3.52069,3.38087 3.53647,3.37332 C 3.55226,3.36577 3.5756,3.37401 3.58315,3.3898 C 3.5907,3.40559 3.58246,3.42892 3.56668,3.43647 C 3.55089,3.44402 3.52755,3.43579 3.52,3.42"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 3.74 3.32 L 4.03,3.18"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 3.74 3.32 C 3.73239,3.30424 3.74054,3.28087 3.7563,3.27326 C 3.77206,3.26566 3.79543,3.27381 3.80304,3.28957 C 3.81065,3.30533 3.8025,3.32869 3.78674,3.3363 C 3.77098,3.34391 3.74761,3.33576 3.74,3.32"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 4.15 3.72 L 4.1,3.48"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 4.15 3.72 C 4.13287,3.72357 4.11217,3.71001 4.1086,3.69287 C 4.10503,3.67574 4.11859,3.65504 4.13572,3.65147 C 4.15286,3.6479 4.17356,3.66147 4.17713,3.6786 C 4.1807,3.69573 4.16713,3.71643 4.15,3.72"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 3.87 3.59 L 4.1,3.48"/>
+    <svg:path style="fill: none; stroke-opacity: 1; stroke-width: 0.0254; stroke: #000000" d="M 3.87 3.59 C 3.86245,3.57421 3.87069,3.55087 3.88647,3.54332 C 3.90226,3.53577 3.9256,3.54401 3.93315,3.5598 C 3.9407,3.57559 3.93246,3.59892 3.91668,3.60647 C 3.90089,3.61402 3.87755,3.60579 3.87,3.59"/>
+  </svg:svg>
+</shape>

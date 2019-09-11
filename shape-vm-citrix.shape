@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>DiaShapes - shape-vm-citrix</name>
+  <icon>shape-vm-citrix.png</icon>
+  <connections>
+    <point x="1.6" y="3.6"/>
+    <point x="4.4" y="2.2"/>
+    <point x="7.2" y="3.6"/>
+    <point x="4.4" y="5"/>
+    <point x="3" y="2.9"/>
+    <point x="5.8" y="2.9"/>
+    <point x="5.8" y="4.3"/>
+    <point x="1.6" y="3.6"/>
+    <point x="4.4" y="5"/>
+    <point x="4.4" y="5.8"/>
+    <point x="1.6" y="4.4"/>
+    <point x="3" y="4.3"/>
+    <point x="4.4" y="5.4"/>
+    <point x="3" y="5.1"/>
+    <point x="4.4" y="5"/>
+    <point x="7.2" y="3.6"/>
+    <point x="7.2" y="4.4"/>
+    <point x="4.4" y="5.8"/>
+    <point x="5.8" y="4.3"/>
+    <point x="7.2" y="4"/>
+    <point x="5.8" y="5.1"/>
+    <point x="4.3" y="4.73"/>
+    <point x="4.3" y="2.25"/>
+    <point x="3.05" y="3.49"/>
+    <point x="5.55" y="3.49"/>
+    <point x="4.4" y="4.79"/>
+    <point x="4.4" y="2.31"/>
+    <point x="3.15" y="3.55"/>
+    <point x="5.65" y="3.55"/>
+    <point x="4.4" y="4.59"/>
+    <point x="4.4" y="2.51"/>
+    <point x="3.35" y="3.55"/>
+    <point x="5.45" y="3.55"/>
+    <point x="4.4" y="4.39"/>
+    <point x="4.4" y="2.71"/>
+    <point x="3.55" y="3.55"/>
+    <point x="5.25" y="3.55"/>
+    <point x="4.4" y="4.19"/>
+    <point x="4.4" y="2.91"/>
+    <point x="3.75" y="3.55"/>
+    <point x="5.05" y="3.55"/>
+    <point x="4.4" y="3.99"/>
+    <point x="4.4" y="3.11"/>
+    <point x="3.95" y="3.55"/>
+    <point x="4.85" y="3.55"/>
+    <point x="4.4" y="3.79"/>
+    <point x="4.4" y="3.31"/>
+    <point x="4.15" y="3.55"/>
+    <point x="4.65" y="3.55"/>
+    <point x="4.4" y="2.4"/>
+    <point x="5.2" y="2.7"/>
+    <point x="5.55" y="3.55"/>
+    <point x="4.85" y="3.55"/>
+    <point x="4.4" y="3.11"/>
+    <point x="4.8" y="2.55"/>
+    <point x="5.375" y="3.125"/>
+    <point x="5.2" y="3.55"/>
+    <point x="4.625" y="3.33"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:polygon style="fill: #1e90ff" points="1.6,3.6 4.4,2.2 7.2,3.6 4.4,5 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="1.6,3.6 4.4,2.2 7.2,3.6 4.4,5 "/>
+    <svg:polygon style="fill: #3474b2" points="1.6,3.6 4.4,5 4.4,5.8 1.6,4.4 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="1.6,3.6 4.4,5 4.4,5.8 1.6,4.4 "/>
+    <svg:polygon style="fill: #82bffb" points="4.4,5 7.2,3.6 7.2,4.4 4.4,5.8 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #000000" points="4.4,5 7.2,3.6 7.2,4.4 4.4,5.8 "/>
+    <svg:ellipse style="fill: #4d4d4d" cx="4.3" cy="3.49" rx="1.25" ry="1.24"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" cx="4.3" cy="3.49" rx="1.25" ry="1.24"/>
+    <svg:ellipse style="fill: #4d4d4d" cx="4.4" cy="3.55" rx="1.25" ry="1.24"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" cx="4.4" cy="3.55" rx="1.25" ry="1.24"/>
+    <svg:ellipse style="fill: #ffffff" cx="4.4" cy="3.55" rx="1.05" ry="1.04"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" cx="4.4" cy="3.55" rx="1.05" ry="1.04"/>
+    <svg:ellipse style="fill: #4d4d4d" cx="4.4" cy="3.55" rx="0.85" ry="0.84"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" cx="4.4" cy="3.55" rx="0.85" ry="0.84"/>
+    <svg:ellipse style="fill: #ffffff" cx="4.4" cy="3.55" rx="0.65" ry="0.64"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" cx="4.4" cy="3.55" rx="0.65" ry="0.64"/>
+    <svg:ellipse style="fill: #4d4d4d" cx="4.4" cy="3.55" rx="0.45" ry="0.44"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" cx="4.4" cy="3.55" rx="0.45" ry="0.44"/>
+    <svg:ellipse style="fill: #ffffff" cx="4.4" cy="3.55" rx="0.25" ry="0.24"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #7f7f7f" cx="4.4" cy="3.55" rx="0.25" ry="0.24"/>
+    <svg:polygon style="fill: #4d4d4d" points="4.4,2.4 5.2,2.7 5.55,3.55 4.85,3.55 4.4,3.11 "/>
+    <svg:polygon style="fill: none; fill-opacity:0; stroke-width: 0.001; stroke: #4d4d4d" points="4.4,2.4 5.2,2.7 5.55,3.55 4.85,3.55 4.4,3.11 "/>
+  </svg:svg>
+</shape>
